@@ -1,4 +1,4 @@
-### Hi I'm Anton 👋
+# Hi I'm Anton 👋
 
 Data analyst, former backend developer. I'm in love with data science and analytics. I like working with big data, searching for the most important metrics, visualizing them and presenting the results of work. I also have good knowledge in the field of server development in Java.
 
@@ -52,6 +52,9 @@ Data analyst, former backend developer. I'm in love with data science and analyt
    </a>
    <a href="https://t.me/antonexpat">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a href="https://public.tableau.com/app/profile/anton.pozdniakov">
+       <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:antonpavlovich1988@gmail.com'>antonpavlovich1988@gmail.com</a>
