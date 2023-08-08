@@ -24,6 +24,24 @@ Data analyst, former backend developer. I'm in love with data science and analyt
    - Applied RFM clustering, cohort analysis, and A/B testing for data-driven process enhancements.
    - Produced concise reports and presentations for management.
 
+### Examples of works:
+
+1. **[RFM - Breakdown of Online Course Students](https://github.com/AntonStart/analytics_RFM_analysis_school)**
+   - Description: Analysis of segmentation of online course students using the RFM method (Recency, Frequency, Monetary).
+
+2. **A/B Testing**
+   
+   2.1 **[Dating App](https://github.com/AntonStart/analytics_AB_testing_dataapp)**
+   - Description: Analysis of a new algorithm for selecting partners in a dating app.
+
+   2.2 **[Delivery Application 1](https://github.com/AntonStart/analytics_AB_testing_delivery_analysis_12)**
+   - Description: Analysis of the smart product recommendation system.
+
+   2.3 **[Delivery Application 2](https://github.com/AntonStart/analytics_AB_testing_delivery_analysis_3)**
+   - Description: Analysis of two hypotheses (photo shape and button design).
+   
+3. **[Tableau](https://public.tableau.com/app/profile/anton.pozdniakov)**
+   - Description: My public dashboard repository in Tableau.
 
   
 ## 🛠 Technical Stack
