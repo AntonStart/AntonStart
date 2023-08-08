@@ -1,4 +1,62 @@
-### Hi there 👋
+### Hi I'm Anton 👋
+
+Data analyst, former backend developer. I'm in love with data science and analytics. I like working with big data, searching for the most important metrics, visualizing them and presenting the results of work. I also have good knowledge in the field of server development in Java.
+
+## Key points
+
+1. **Automated Data Workflow with Airflow:**
+   - Developed automated data extraction and transformation process, enhancing real-time metrics for analysis.
+   - Increased revenue by 3.5% through rapid managerial response to metric changes.
+
+2. **Effective Tableau Dashboarding:**
+   - Created user-friendly dashboard, expediting managerial decision-making.
+   - Streamlined monitoring of key metric trends.
+
+3. **A/B Test Expertise and Impact:**
+   - Contributed to A/B tests, designing and analyzing with robust statistical methods like Bootstrap.
+   - Achieved 1.2% purchase conversion improvement in two successful A/B tests.
+
+4. **Monolith to Microservices Transition:**
+   - Played a role in migrating monolithic app to microservices using Java Spring.
+   - Enhanced application modularity and scalability.
+
+5. **Insightful Data-Driven Optimization:**
+   - Applied RFM clustering, cohort analysis, and A/B testing for data-driven process enhancements.
+   - Produced concise reports and presentations for management.
+
+
+  
+## 🛠 Technical Stack
+*   Python
+*   NumPy, SciPy, Pandas, StatsModels, Matplotlib, Seaborn, Plotly 
+*   Apache Airflow
+*   Tableau
+*   Clickhouse, MySQL, PostgreSQL
+*   GitHub/GitLab
+*   Java
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract
+
+  
+<p align='center'>
+   <!--<a href="https://github-readme-stats.vercel.app/api?username=AntonStart&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=AntonStart&show_icons=true&count_private=true"/></a>
+           -->
+   <a href="https://github.com/AntonStart/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonStart&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/anton-pozdniakov-540470256/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/antonexpat">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:antonpavlovich1988@gmail.com'>antonpavlovich1988@gmail.com</a>
+</p>
+
 
 <!--
 **AntonStart/AntonStart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
